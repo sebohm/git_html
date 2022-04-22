@@ -1,11 +1,11 @@
 body {
-  background-color: lightgray;
+  background-color: #f8f8f8;
 }
 h1 {
-  color: black ;
+  color: #404040;
   font-family: ubuntu condensed;
 }
 p {
-  color: grey;
+  color: #686868;
   font-family: ubuntu;
 }
